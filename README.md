@@ -1,5 +1,4 @@
 # Tec-Bank
-Simulando uma conta bancária criando as classes e utilizando Orientação a Objeto.
 
 Exercícios propostos em aula.
   - Programação simulando uma conta bancária criando as classes e utilizando Orientação a Objetos .
